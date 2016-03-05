@@ -1,0 +1,241 @@
+{
+  "title": "Application",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Sign Up & Login",
+      "id": "15.768e56e994d8730",
+      "ideas": {
+        "1": {
+          "title": "3rd Party Signup and Login",
+          "id": "16.768e56e994d8730",
+          "ideas": {
+            "1": {
+              "title": "Browser or native app?",
+              "id": "18.768e56e994d8730"
+            },
+            "2": {
+              "title": "Remember login and permissions?",
+              "id": "19.768e56e994d8730"
+            }
+          }
+        },
+        "2": {
+          "title": "Email?",
+          "id": "17.768e56e994d8730",
+          "ideas": {
+            "1": {
+              "title": "Forgot Password",
+              "id": "20.768e56e994d8730"
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "UI/UX",
+      "id": "21.768e56e994d8730",
+      "ideas": {
+        "1": {
+          "title": "Gyroscophe",
+          "id": "22.768e56e994d8730"
+        },
+        "2": {
+          "title": "Touchscreen",
+          "id": "23.768e56e994d8730",
+          "ideas": {
+            "1": {
+              "title": "small controls",
+              "id": "29.768e56e994d8730"
+            },
+            "2": {
+              "title": "swipe",
+              "id": "30.768e56e994d8730"
+            },
+            "3": {
+              "title": "zoom in/out",
+              "id": "31.768e56e994d8730"
+            }
+          }
+        },
+        "3": {
+          "title": "Keyboard",
+          "id": "24.768e56e994d8730",
+          "ideas": {
+            "1": {
+              "title": "Numeric inputs only?",
+              "id": "25.768e56e994d8730"
+            }
+          }
+        },
+        "4": {
+          "title": "Error Handling ",
+          "id": "44.768e56e994d8730",
+          "ideas": {
+            "1": {
+              "title": "Messages",
+              "id": "45.768e56e994d8730",
+              "ideas": {}
+            },
+            "2": {
+              "title": "Validations",
+              "id": "47.768e56e994d8730"
+            }
+          }
+        },
+        "5": {
+          "title": "Redirections?",
+          "id": "48.768e56e994d8730"
+        },
+        "6": {
+          "title": "Usability",
+          "id": "55.768e56e994d8730"
+        },
+        "7": {
+          "title": "Accessibility?",
+          "id": "56.768e56e994d8730"
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "3": {
+      "title": "API?",
+      "id": "41.768e56e994d8730"
+    },
+    "-1": {
+      "title": "Phone ",
+      "id": "5.768e56e994d8730",
+      "ideas": {
+        "1": {
+          "title": "Locatization",
+          "id": "2.768e56e994d8730",
+          "ideas": {
+            "1": {
+              "title": "GPS?",
+              "id": "33.768e56e994d8730",
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Internacionalization",
+          "id": "4.768e56e994d8730",
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Switch default language on Phone",
+              "id": "26.768e56e994d8730"
+            },
+            "2": {
+              "title": "Change Language on application",
+              "id": "27.768e56e994d8730"
+            },
+            "3": {
+              "title": "Chinese!",
+              "id": "28.768e56e994d8730"
+            }
+          }
+        },
+        "3": {
+          "title": "SD Card",
+          "id": "7.768e56e994d8730"
+        },
+        "4": {
+          "title": "Internet Connection",
+          "id": "8.768e56e994d8730",
+          "ideas": {
+            "1": {
+              "title": "LTE",
+              "id": "9.768e56e994d8730"
+            },
+            "2": {
+              "title": "WiFi",
+              "id": "10.768e56e994d8730"
+            },
+            "3": {
+              "title": "Airplane Mode",
+              "id": "11.768e56e994d8730"
+            }
+          }
+        },
+        "5": {
+          "title": "Calls & Messages",
+          "id": "12.768e56e994d8730",
+          "ideas": {}
+        },
+        "7": {
+          "title": "Permissions",
+          "id": "37.768e56e994d8730",
+          "ideas": {}
+        },
+        "8": {
+          "title": "Time Zone?",
+          "id": "43.768e56e994d8730"
+        },
+        "9": {
+          "title": "Turn on Services?",
+          "id": "49.768e56e994d8730"
+        },
+        "10": {
+          "title": "Hardware",
+          "id": "50.768e56e994d8730",
+          "ideas": {
+            "1": {
+              "title": "Battery",
+              "id": "51.768e56e994d8730",
+              "ideas": {}
+            },
+            "2": {
+              "title": "CPU usage",
+              "id": "53.768e56e994d8730"
+            },
+            "3": {
+              "title": "Memory",
+              "id": "54.768e56e994d8730"
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Data",
+      "id": "34.768e56e994d8730",
+      "ideas": {
+        "1": {
+          "title": "Files?",
+          "id": "35.768e56e994d8730"
+        },
+        "2": {
+          "title": "Queries?",
+          "id": "36.768e56e994d8730"
+        },
+        "3": {
+          "title": "Purchase?",
+          "id": "39.768e56e994d8730"
+        },
+        "4": {
+          "title": "Updates",
+          "id": "40.768e56e994d8730"
+        },
+        "5": {
+          "title": "Consistency with other platforms?",
+          "id": "42.768e56e994d8730"
+        }
+      }
+    },
+    "-3": {
+      "title": "Security?",
+      "id": "57.768e56e994d8730"
+    }
+  }
+}
