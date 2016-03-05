@@ -55,13 +55,13 @@
         }
       }
     },
-    "style": {
-      "background": "#FF3300"
-    },
     "measurements-config": [
       "Bugs",
       "Complexity Points"
     ],
+    "style": {
+      "background": "#FF3300"
+    },
     "progress": "failure"
   },
   "ideas": {
@@ -75,12 +75,6 @@
     },
     "3": {
       "title": "UI/UX",
-      "attr": {
-        "style": {
-          "background": "#FF3300"
-        },
-        "progress": "failure"
-      },
       "ideas": {
         "1": {
           "title": "Gyroscophe",
@@ -97,8 +91,10 @@
               "title": "small controls",
               "id": 12,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
               }
             },
             "2": {
@@ -120,10 +116,8 @@
           },
           "id": 11,
           "attr": {
-            "style": {
-              "background": "#00CC00"
-            },
-            "progress": "passing"
+            "progress": "1",
+            "style": {}
           }
         },
         "3": {
@@ -133,8 +127,10 @@
               "title": "Numeric inputs only?",
               "id": 16,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {
+                  "background": "#FF3300"
+                },
+                "progress": "failure"
               }
             }
           },
@@ -198,7 +194,13 @@
           }
         }
       },
-      "id": 9
+      "id": 9,
+      "attr": {
+        "style": {
+          "background": "#FF3300"
+        },
+        "progress": "failure"
+      }
     },
     "4": {
       "title": "Sign Up and Login",
