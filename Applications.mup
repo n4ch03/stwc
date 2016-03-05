@@ -55,13 +55,13 @@
         }
       }
     },
-    "style": {
-      "background": "#FF3300"
-    },
     "measurements-config": [
       "Bugs",
       "Complexity Points"
     ],
+    "style": {
+      "background": "#FF3300"
+    },
     "progress": "failure"
   },
   "ideas": {
@@ -75,12 +75,6 @@
     },
     "3": {
       "title": "UI/UX",
-      "attr": {
-        "style": {
-          "background": "#FF3300"
-        },
-        "progress": "failure"
-      },
       "ideas": {
         "1": {
           "title": "Gyroscophe",
@@ -97,24 +91,30 @@
               "title": "small controls",
               "id": 12,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
               }
             },
             "2": {
               "title": "swipe",
               "id": 13,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
               }
             },
             "3": {
               "title": "zoom in/out",
               "id": 14,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {
+                  "background": "#00CC00"
+                },
+                "progress": "passing"
               }
             }
           },
@@ -133,11 +133,13 @@
               "title": "Numeric inputs only?",
               "id": 16,
               "attr": {
-                "progress": "1",
-                "style": {},
+                "style": {
+                  "background": "#FF3300"
+                },
                 "measurements": {
                   "Bugs": "1"
-                }
+                },
+                "progress": "failure"
               }
             }
           },
@@ -157,23 +159,29 @@
               "ideas": {},
               "id": 18,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {
+                  "background": "#FF3300"
+                },
+                "progress": "failure"
               }
             },
             "2": {
               "title": "Validations",
               "id": 19,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {
+                  "background": "#FF3300"
+                },
+                "progress": "failure"
               }
             }
           },
           "id": 17,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {
+              "background": "#FF3300"
+            },
+            "progress": "failure"
           }
         },
         "5": {
@@ -201,7 +209,13 @@
           }
         }
       },
-      "id": 9
+      "id": 9,
+      "attr": {
+        "style": {
+          "background": "#FF3300"
+        },
+        "progress": "failure"
+      }
     },
     "4": {
       "title": "Sign Up and Login",
