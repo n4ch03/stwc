@@ -55,12 +55,14 @@
         }
       }
     },
-    "style": {},
+    "style": {
+      "background": "#FF3300"
+    },
     "measurements-config": [
       "Bugs",
       "Complexity Points"
     ],
-    "progress": "1"
+    "progress": "failure"
   },
   "ideas": {
     "2": {
@@ -74,8 +76,10 @@
     "3": {
       "title": "UI/UX",
       "attr": {
-        "style": {},
-        "progress": "1"
+        "style": {
+          "background": "#FF3300"
+        },
+        "progress": "failure"
       },
       "ideas": {
         "1": {
@@ -116,8 +120,10 @@
           },
           "id": 11,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {
+              "background": "#00CC00"
+            },
+            "progress": "passing"
           }
         },
         "3": {
@@ -134,8 +140,10 @@
           },
           "id": 15,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {
+              "background": "#FF3300"
+            },
+            "progress": "failure"
           }
         },
         "4": {
