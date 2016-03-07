@@ -59,10 +59,8 @@
       "Bugs",
       "Complexity Points"
     ],
-    "style": {
-      "background": "#FF3300"
-    },
-    "progress": "failure"
+    "progress": "1",
+    "style": {}
   },
   "ideas": {
     "2": {
@@ -80,8 +78,8 @@
           "title": "Gyroscophe",
           "id": 10,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "2": {
@@ -91,39 +89,31 @@
               "title": "small controls",
               "id": 12,
               "attr": {
-                "style": {
-                  "background": "#00CC00"
-                },
-                "progress": "passing"
+                "progress": "1",
+                "style": {}
               }
             },
             "2": {
               "title": "swipe",
               "id": 13,
               "attr": {
-                "style": {
-                  "background": "#00CC00"
-                },
-                "progress": "passing"
+                "progress": "1",
+                "style": {}
               }
             },
             "3": {
               "title": "zoom in/out",
               "id": 14,
               "attr": {
-                "style": {
-                  "background": "#00CC00"
-                },
-                "progress": "passing"
+                "progress": "1",
+                "style": {}
               }
             }
           },
           "id": 11,
           "attr": {
-            "style": {
-              "background": "#00CC00"
-            },
-            "progress": "passing"
+            "progress": "1",
+            "style": {}
           }
         },
         "3": {
@@ -133,22 +123,18 @@
               "title": "Numeric inputs only?",
               "id": 16,
               "attr": {
-                "style": {
-                  "background": "#FF3300"
-                },
                 "measurements": {
-                  "Bugs": "1"
+                  "Bugs": "0"
                 },
-                "progress": "failure"
+                "progress": "1",
+                "style": {}
               }
             }
           },
           "id": 15,
           "attr": {
-            "style": {
-              "background": "#FF3300"
-            },
-            "progress": "failure"
+            "progress": "1",
+            "style": {}
           }
         },
         "4": {
@@ -159,62 +145,54 @@
               "ideas": {},
               "id": 18,
               "attr": {
-                "style": {
-                  "background": "#FF3300"
-                },
-                "progress": "failure"
+                "progress": "1",
+                "style": {}
               }
             },
             "2": {
               "title": "Validations",
               "id": 19,
               "attr": {
-                "style": {
-                  "background": "#FF3300"
-                },
-                "progress": "failure"
+                "progress": "1",
+                "style": {}
               }
             }
           },
           "id": 17,
           "attr": {
-            "style": {
-              "background": "#FF3300"
-            },
-            "progress": "failure"
+            "progress": "1",
+            "style": {}
           }
         },
         "5": {
           "title": "Redirections?",
           "id": 20,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "6": {
           "title": "Usability",
           "id": 21,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "7": {
           "title": "Accessibility?",
           "id": 22,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         }
       },
       "id": 9,
       "attr": {
-        "style": {
-          "background": "#FF3300"
-        },
-        "progress": "failure"
+        "progress": "1",
+        "style": {}
       }
     },
     "4": {
@@ -227,23 +205,23 @@
               "title": "Browser or native app?",
               "id": 5,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             },
             "2": {
               "title": "Remember login and permissions?",
               "id": 6,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             }
           },
           "id": 4,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "2": {
@@ -253,15 +231,15 @@
               "title": "Forgot Password",
               "id": 8,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             }
           },
           "id": 7,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         }
       },
@@ -303,24 +281,24 @@
               "title": "Switch default language on Phone",
               "id": 28,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             },
             "2": {
               "title": "Change Language on application",
               "id": 29,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             },
             "3": {
               "title": "Chinese!",
               "id": 30,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             }
           },
@@ -330,8 +308,8 @@
           "title": "SD Card",
           "id": 31,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "4": {
@@ -341,31 +319,31 @@
               "title": "LTE",
               "id": 33,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             },
             "2": {
               "title": "WiFi",
               "id": 34,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             },
             "3": {
               "title": "Airplane Mode",
               "id": 35,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             }
           },
           "id": 32,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "5": {
@@ -373,8 +351,8 @@
           "ideas": {},
           "id": 36,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "6": {
@@ -382,24 +360,24 @@
           "ideas": {},
           "id": 37,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "7": {
           "title": "Time Zone?",
           "id": 38,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "8": {
           "title": "Turn on Services?",
           "id": 39,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "9": {
@@ -410,31 +388,31 @@
               "ideas": {},
               "id": 41,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             },
             "2": {
               "title": "CPU usage",
               "id": 42,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             },
             "3": {
               "title": "Memory",
               "id": 43,
               "attr": {
-                "progress": "1",
-                "style": {}
+                "style": {},
+                "progress": "1"
               }
             }
           },
           "id": 40,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         }
       },
@@ -451,40 +429,40 @@
           "title": "Files?",
           "id": 45,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "2": {
           "title": "Queries?",
           "id": 46,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "3": {
           "title": "Purchase?",
           "id": 47,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "4": {
           "title": "Updates",
           "id": 48,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         },
         "5": {
           "title": "Consistency with other platforms?",
           "id": 49,
           "attr": {
-            "progress": "1",
-            "style": {}
+            "style": {},
+            "progress": "1"
           }
         }
       },
